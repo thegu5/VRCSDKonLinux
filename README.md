@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Superseeded by [BefuddledLabs/LinuxVRChatSDKPatch](https://github.com/BefuddledLabs/LinuxVRChatSDKPatch) for all intents and purposes. The old README is below.
+
 # VRChat SDK Linux patch (New and improved)
 
 ## Warning: By modifying the SDK you are violating the VRChat TOS. Do it at your own risk!
