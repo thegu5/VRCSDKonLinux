@@ -1,5 +1,5 @@
 > [!WARNING]  
-> Superseeded by [BefuddledLabs/LinuxVRChatSDKPatch](https://github.com/BefuddledLabs/LinuxVRChatSDKPatch) for all intents and purposes. The old README is below.
+> Superseeded by [BefuddledLabs/LinuxVRChatSDKPatch](https://github.com/BefuddledLabs/LinuxVRChatSDKPatch) for all reasonable intents and purposes. The old README is below.
 
 # VRChat SDK Linux patch (New and improved)
 
